@@ -33,7 +33,7 @@ I enjoy turning ideas into tangible projects that combine **creativity, logic, a
 ---
 
 ## 💬 Get in Touch
-🔗 [LinkedIn](https://linkedin.com/in/camille-monnier)  
+🔗 [LinkedIn](www.linkedin.com/in/camille-monnier-40a69528b)  
 💻 [GitHub](https://github.com/Camave)  
 📧 [monnier.camille06@gmail.com](mailto:monnier.camille06@gmail.com)
 
