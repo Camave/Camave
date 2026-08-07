@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Camille!
+# Camille Monnier
 
-I'm a Computer Engineering student at **Polytechnique Montréal**, passionate about **artificial intelligence**, **software development**, and **building smart tools that automate or simplify everyday tasks**.
+Computer Engineering student at **Polytechnique Montréal**, working on quantum compilation and industrial data systems.
 
-I love experimenting with code — whether it’s designing my own neural network from scratch, developing a mini GPT model, or creating mobile applications that connect people for local services.  
-I enjoy turning ideas into tangible projects that combine **creativity, logic, and impact**.
-
----
-
-## 🧠 About Me
-🎓 B.Eng. in Computer Engineering — Polytechnique Montréal  
-💡 Passionate about AI, automation, and full-stack development  
-🤖 Creator of a personal Mini GPT and neural network built from scratch  
-📱 Developer of *Easy Task*, a React Native app for local peer-to-peer services  
-🌍 Open to **summer 2026 internships** in Canada or France  
+I'm interested in the layer where software meets hardware constraints — compilers, low-level performance, and systems that have to work under real physical limits. I build things from first principles when I can: a transformer derived from the architecture rather than assembled from a library, an embedded system programmed at register level.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, TypeScript  
-**Frameworks & Libraries:** React Native, PyTorch, NumPy, Matplotlib, TensorFlow  
-**Tools:** Expo, Appwrite, Git, VS Code, Linux  
-**Interests:** Machine Learning, Software Engineering, and AI Agents  
+## Currently
+
+**Quantum Computing Research Intern — Calcul Québec** *(June 2026 – present)*
+Optimizing the circuit transpilation stack for the MonarQ superconducting processor. Implemented SABRE qubit routing and custom optimization passes in the `pennylane-calculquebec` plugin, cutting circuit depth and CZ gate count by 40% and compilation time by 26× against the MQT baseline. Currently designing a QAOA-based layout pass for virtual-to-physical qubit mapping.
+
+**Data Engineering & Application Development Intern — VINCI Construction** *(May 2026 – present)*
+Designed and shipped the data platform unifying 24 asphalt plants across Canada — schema design, site interconnection, and Python/SQL ETL pipelines. Real-time monitoring dashboards now used daily by 30+ engineers and technicians. Awarded Best Innovation, VINCI Construction Amérique-Océanie.
 
 ---
 
-## 🚀 What I’m Working On
-🧠 Building and refining my **Mini GPT** using PyTorch and tokenization pipelines  
-📊 Experimenting with **neural networks** and data visualization  
-📱 Improving the UX and database logic of my **Easy Task** mobile app  
-🤖 Exploring **AI agent design** for automation and smart systems  
+## Selected work
+
+**[Deep Learning from Scratch](https://github.com/Camave/deeplearning)** — Python, PyTorch, NumPy
+A progression from a hand-derived single neuron through MLPs and RNNs to a 42K-parameter decoder-only transformer: scaled dot-product attention, causal masking, and residual pre-norm blocks implemented directly from the architecture. Backpropagation derived analytically and verified numerically.
+
+**Autonomous Robot — Embedded Systems** — C, avr-libc, ATmega324PA
+Bare-metal register-level programming on an ATmega324PA in a team of four: interrupt-driven UART/RS-232, I²C peripheral addressing, PWM motor control, and ADC sensor acquisition. Code quality enforced through peer inspections, unit tests, and Git-based configuration management. *(Coursework — repository available on request.)*
 
 ---
 
-## 💬 Get in Touch
-🔗 [LinkedIn](www.linkedin.com/in/camille-monnier-40a69528b)  
-💻 [GitHub](https://github.com/Camave)  
-📧 [monnier.camille06@gmail.com](mailto:monnier.camille06@gmail.com)
+## Tools
+
+**Languages** — Python, C, C++, SQL, TypeScript
+**Quantum** — Qiskit, PennyLane, circuit transpilation, SABRE routing, VQE/QAOA
+**Data & ML** — pandas, NumPy, PyTorch, Matplotlib, Grafana, ETL pipeline design
+**Systems** — Docker, Git, Linux, bare-metal AVR
 
 ---
 
-✨ *“Engineering is about turning ideas into tools that make life simpler.”*
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/camille-monnier-40a69528b) · [monnier.camille06@gmail.com](mailto:monnier.camille06@gmail.com)
+
+Open to **Summer 2027 internships** in software engineering, quantum computing, and machine learning.
