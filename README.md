@@ -21,7 +21,7 @@ Designed and shipped the data platform unifying 24 asphalt plants across Canada 
 **[Deep Learning from Scratch](https://github.com/Camave/deeplearning)** — Python, PyTorch, NumPy
 A progression from a hand-derived single neuron through MLPs and RNNs to a 42K-parameter decoder-only transformer: scaled dot-product attention, causal masking, and residual pre-norm blocks implemented directly from the architecture. Backpropagation derived analytically and verified numerically.
 
-**Autonomous Robot — Embedded Systems** — C, avr-libc, ATmega324PA
+**[Autonomous Robot — Embedded Systems](https://github.com/Camave/Autonomous-robot)** — C, avr-libc, ATmega324PA
 Bare-metal register-level programming on an ATmega324PA in a team of four: interrupt-driven UART/RS-232, I²C peripheral addressing, PWM motor control, and ADC sensor acquisition. Code quality enforced through peer inspections, unit tests, and Git-based configuration management. *(Coursework — repository available on request.)*
 
 ---
