@@ -8,7 +8,7 @@ I'm interested in the layer where software meets hardware constraints — compil
 
 ## Currently
 
-**Quantum Computing Research Intern — Calcul Québec** *(June 2026 – present)*
+**Quantum Computing Research Assistant — Calcul Québec** *(June 2026 – present)*
 Optimizing the circuit transpilation stack for the MonarQ superconducting processor. Implemented SABRE qubit routing and custom optimization passes in the `pennylane-calculquebec` plugin, cutting circuit depth and CZ gate count by 40% and compilation time by 26× against the MQT baseline. Currently designing a QAOA-based layout pass for virtual-to-physical qubit mapping.
 
 **Data Engineering & Application Development Intern — VINCI Construction** *(May 2026 – present)*
