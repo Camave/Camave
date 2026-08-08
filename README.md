@@ -30,14 +30,14 @@ The two trained transformers: **MiniGPT** (2.1M params, 4 blocks, 8 heads, d=256
 SlimPajama-6B. Attention, causal masking, and pre-norm residual blocks written from
 the architecture, not assembled from library modules.
 
-**[Autonomous Robot — Embedded Systems](https://github.com/Camave/Autonomous-robot)** — C, avr-libc, ATmega324PA
+**[Autonomous Robot — Embedded Systems](https://github.com/Camave/Autonomous-robot)** — C++, avr-libc, ATmega324PA
 Bare-metal register-level programming on an ATmega324PA in a team of four: interrupt-driven UART/RS-232, I²C peripheral addressing, PWM motor control, and ADC sensor acquisition. Code quality enforced through peer inspections, unit tests, and Git-based configuration management. *(Coursework — repository available on request.)*
 
 ---
 
 ## Tools
 
-**Languages** — Python, C, C++, SQL, TypeScript
+**Languages** — Python, C++, SQL, TypeScript
 **Quantum** — Qiskit, PennyLane, circuit transpilation, SABRE routing, VQE/QAOA
 **Data & ML** — pandas, NumPy, PyTorch, Matplotlib, Grafana, ETL pipeline design
 **Systems** — Docker, Git, Linux, bare-metal AVR
